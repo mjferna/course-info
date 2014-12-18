@@ -1,0 +1,10 @@
+**Modified Project Proposal**
+Matt Fernandez|Code and Poetry
+
+In his famous lecture/essay "The American Scholar," Ralph Waldo Emerson once said that "Man thinking must not be not subdued by his instruments," adding famously "Books are for the scholar's idle times." Emerson thought it imperative for humanists to not only be well-read, but also aware of the era that they live in. He also believed that demands of new era called for new thoughts; that the only purpose in studying knowledge of the past was to be able apply it the problems of the present.
+
+Taking a cue from Emerson's essay, I propose to create to a syllabus for a course called "Computing and The American Scholar" that will attempt to connect American writers to contemporary computing practices. This will have two-fold purpose: to introduce students to key readings and issues in American Studies *and* to get them to think more critically about their computing practice. Although focusing upon national literature has become increasingly unfashionable in the humanities, most courses still rely on this paradigm. Therefore, as a graduate student training to be a specialist in American literature and culture, I must be find novel ways to combine these interests. The course could also be considered an intro "digital humanities" course for students interested in American literature.
+
+This will not be an easy task since few, if any, canonical American writers are specifically interesting in computing. Most, however, do discuss the technological issues of their day, and many are interested in topics related to computing practice (knowledge design, peer production, plain text, etc). Furthermore, at least once during the semester, I hope to show how to apply new computational methods (e.g. distant readings) onto a text and have students critically discuss the merits and pitfalls of such an approach.
+
+As I continue my studies as a graduate student, I will likely adapt this. However, I hope by the end of this semester to have a solid draft of a syllabus that I can use as a foundation for my future teaching.
