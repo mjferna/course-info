@@ -149,7 +149,7 @@ Lastly, we will look at a number of canonical authors while integrating concepts
 
 1. Charles Petzold. Chapters 1-6 in *Code: The Hidden Language of Computer Hardware and Software* (1999)
 2. Stephen Ramsay + Geoffrey Rockwell. “Writing as Programming as Writing”; [see also](http://vimeo.com/10039185)
-3. Allen B Downey. "Chapter 1" in "Think Python*. (2012).
+3. Allen B Downey. "Chapter 1" in *Think Python*. (2012).
 
 **Lab:** Very short introduction to Python
 
@@ -157,7 +157,7 @@ Lastly, we will look at a number of canonical authors while integrating concepts
 **What is big data?**
 
 1. Jorge Luis Borges, [“The Library of Babel”](http://www.thecriticalpoint.net/index_files/libraryofbabel.pdf) (1941).
-2. Matthew Wilkens. ["Contemporary Fiction by the Numbers,"](http://post45.research.yale.edu/2011/03/contemporary-fiction-by-the-numbers/) *Post45* (2011).
+2. Matthew Wilkens. ["Contemporary Fiction by the Numbers,"](http://post45.research.yale.edu/2011/03/contemporary-fiction-by-the-numbers/) in *Post45* (2011).
 3. Stephen Marche. [“Literature Is Not Data: Against Digital Humanities."](http://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities) (2012).
 
 **Lab:** Work on final projects
