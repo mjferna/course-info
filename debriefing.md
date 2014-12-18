@@ -1,4 +1,7 @@
-Debriefing for final project|Code and Poetry
+Debriefing for final project
+
+Code and Poetry
+
 Matt Fernandez
 
 ###Objectives for the project:
